@@ -3,20 +3,36 @@ project:
   output-dir: docs
   
 website:
-  title: "MY WEB SITE"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - projects.qmd
-    tools:
-      - icon: twitter
-        href: https://twitter.com/
-      - icon: github
-        href: https://github.com/YOURUSERNAME/YOURREPO
+  title: "EDAV Fall 2023 Community Contribution"
+  # navbar:
+  #   left:
+  #     - href: index.qmd
+  #       text: Welcome!
+  #     - projects.qmd
+  #   tools:
+  #     - icon: twitter
+  #       href: https://twitter.com/
+  #     - icon: github
+  #       href: https://github.com/YOURUSERNAME/YOURREPO
+  sidebar:
+    style: "floating"
+    search: true
+    contents:
+      - section: "Welcome!"
+        contents:
+          - welcome.qmd
+      - text: "---"
+      - section: "Topic 1"
+        contents:
+          - project1.qmd
+      - text: "---"
+      - section: "Topic 2"
+        contents:
+          - project2.qmd
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2023, YOUR NAME"
+    left: "&copy; Copyright 2023"
+  back-to-top-navigation: true
 
 format:
   html:

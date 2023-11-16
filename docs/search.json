@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "welcome.html",
+    "href": "welcome.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "This webpage contains community contributions for Fall 2023 EDAV class at Columbia University.\n\n\n\n Back to top"
+  },
+  {
     "objectID": "projects.html#project-2",
     "href": "projects.html#project-2",
     "title": "Projects",
@@ -12,12 +19,5 @@
     "title": "Projects",
     "section": "Project 3",
     "text": "Project 3"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About Me",
-    "section": "",
-    "text": "Thanks for checking out my web site!"
   }
 ]
