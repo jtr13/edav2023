@@ -10,7 +10,9 @@ description: This webpage contains community contributions for Fall 2023 EDAV cl
 
 :::{#me}
 
-## Goals
+## Getting Data
+
+[How to web scrape in R](https://www.youtube.com/watch?v=bAlfTcX2Q8Y)
 
 ## Education
 

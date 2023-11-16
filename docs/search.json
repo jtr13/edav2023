@@ -1,10 +1,17 @@
 [
   {
-    "objectID": "welcome.html",
-    "href": "welcome.html",
-    "title": "Welcome!",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About Me",
     "section": "",
-    "text": "This webpage contains community contributions for Fall 2023 EDAV class at Columbia University.\n\n\n\n Back to top"
+    "text": "How to web scrape in R\nThanks for checking out my web site!"
+  },
+  {
+    "objectID": "index.html#getting-data",
+    "href": "index.html#getting-data",
+    "title": "About Me",
+    "section": "",
+    "text": "How to web scrape in R"
   },
   {
     "objectID": "projects.html#project-2",
