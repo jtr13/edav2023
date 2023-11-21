@@ -2,4 +2,9 @@
 title: "Welcome!"
 ---
 
-This webpage contains community contributions for Fall 2023 EDAV class at Columbia University.
+This webpage contains community contributions for Fall 2023 EDAV class at Columbia University. 
+
+There are 108 videos in total that are divided into 7 categories.
+
+Hopefully this will help you prepare for your final project!
+

@@ -1,6 +1,18 @@
 ---
-title: "Project 1"
-author: 'author name'
+title: "Data Collection and Preprocessing"
 ---
+[1. Understanding the grepl() function in R (Mon/Wed)](https://www.youtube.com/watch?v=t5iv84vwrxk)
 
-## Project 1
+[2. Strategies for Handling Missing Data (Mon/Wed)](https://youtu.be/A7GkdSjLL_g)
+
+[3. Combining Sub-Categories in Dataframes in R with grepl() (Mon/Wed)](https://youtu.be/A8IqvqnkIC4)
+
+[4. Min-max Scaling in R (Mon/Wed)](https://youtu.be/Oi0P5CT5hS0)
+
+[5. Web Scraping in R (Tues/Thurs)](https://youtu.be/bAlfTcX2Q8Y)
+
+[6. Working with Time Zone in R with Lubridate (Tues/Thurs)](https://youtu.be/nLTD8tKimW4)
+
+[7. Tricks of data cleaning and visualization in R (Tues/Thurs)](https://www.youtube.com/watch?v=cmzpZyz0Os4)
+
+

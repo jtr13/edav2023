@@ -1,0 +1,8 @@
+---
+title: "Parameter Analysis of Visualization Techniques"
+---
+[1. QQ Plots and Sample Quantiles Analysis in R (Mon/Wed)](https://www.youtube.com/watch?v=RKcvdK5DNZU&ab_channel=MartinFluder)
+
+[2. Deep Dive in Hexagonal Grids (Tues/Thurs)](https://www.youtube.com/watch?v=oUgAx_Fosvg)
+
+

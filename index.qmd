@@ -1,24 +1,17 @@
 ---
-title: "Welcome"
+title: "Welcome!"
 # about:
 #   id: me
 #   template: broadside
 #   image: img/profile.png
 # github-repo: jtr13/edav2023
-description: This webpage contains community contributions for Fall 2023 EDAV class at Columbia University.
+
 ---
 
-:::{#me}
+This webpage contains community contributions for Fall 2023 EDAV class at Columbia University.
 
-## Getting Data
+There are 108 videos in total that are divided into 7 categories.
 
-[How to web scrape in R](https://www.youtube.com/watch?v=bAlfTcX2Q8Y)
-
-## Education
-
-## Experience
-
-:::
-
+Hopefully this will help you prepare for your final project!
 
 

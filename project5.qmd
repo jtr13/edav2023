@@ -1,0 +1,14 @@
+---
+title: "Programming Techniques and Tools"
+---
+[1. Using R in Jupyter Notebook in  VSCode and Latex (Mon/Wed)](https://youtu.be/B5anK7XBXrg)
+
+[2. Project Management in R using RProject and Renv (Mon/Wed)](https://www.youtube.com/watch?v=kBkpIck87Ys)
+
+[3. How to run R and Python in the same Jupyter Notebook using rpy2 (Mon/Wed)](https://www.youtube.com/watch?v=pFi11WIDi0E)
+
+[4. Functional Programming in R (Tues/Thurs)](https://www.youtube.com/watch?v=AAMZFA-eQM8&ab_channel=emm2293)
+
+[5. Quick Tips on Speeding up Data Manipulation and Visualization in R (Tues/Thurs)](https://youtu.be/E4M39IxvvtI)
+
+

@@ -1,0 +1,34 @@
+---
+title: "Outside of R"
+---
+# Subcategory 1: Geospatial Data Visualization
+[1. Relating Impact with Interactive Maps (Mon/Wed)](https://youtu.be/UT_-BeZl2o4)
+
+[2. A Complete Python Folium Tutorial (Mon/Wed)](https://www.youtube.com/watch?v=Ob0fhtDnFus)
+
+[3. Map Data Visualization with Folium in Python (Mon/Wed)](https://youtu.be/IDy_6UA9jak)
+
+[4. Interactive visualization of Earthquakes in Turkey in Python (Tues/Thurs)](https://www.youtube.com/watch?v=-1G16o8fKMU&feature=youtu.be)
+
+[5. Reducing Spatial Data Redundancies (Tues/Thurs)](https://youtu.be/ykFh3_D8Ors)
+
+
+# Subcategory 2: Miscellaneous
+[6. Streamlit Data Analysis App: StudyStats, a non-coding platform for beginners
+ (Mon/Wed)](https://youtu.be/gsCIMVdy-Kw)
+
+[7. Interactive Data Visualizations in Python (Mon/Wed)](https://youtu.be/gWsKyyakkrk)
+
+[8. Visualizing Demographic Trends with Animated Maps (Mon/Wed)](https://youtu.be/9hB1M4hqCAA)
+
+[9. Exploratory Analysis and Data Visualization (Mon/Wed)](https://www.youtube.com/watch?v=oU7mhpVZJT8)
+
+[10. Color Interpolation for Choropleth Maps in Data Wrapper (Tues/Thurs)](https://youtu.be/-83_kmNW-D8)
+
+[11. Interactive visualization with Plotly in Python (Tues/Thurs)](https://youtu.be/moCIjBGxPzs)
+
+[12. Efficient Excel Chart Management with VBA Macros (Tues/Thurs)](https://www.youtube.com/watch?v=mc1ON6ATsxU)
+
+[13. Visualization of Graph Data with Neo4J in Python (Tues/Thurs)](https://youtu.be/cgjVXbSMjho)
+
+

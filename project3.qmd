@@ -1,0 +1,35 @@
+---
+title: "Interactive and Web-based Applications"
+---
+# Subcategory 1: Equisse Package
+[1. Easy Data Analysis and Visualization Add-ins in R (Mon/Wed)](https://www.youtube.com/watch?v=gIPY_5m-vRk)
+
+[2. Data Visualization R Add-ins: Equisse and GGThemeAssist  (Tues/Thurs)](https://youtu.be/CpGb063CeWY)
+
+
+# Subcategory 2: Shiny App
+[3. How to make an Interactive Dashboard with Shiny App on R (Mon/Wed)](https://youtu.be/UG6QibAflRs)
+
+[4. Introducing Shiny Package in R - Interactive Web Dashboard (Mon/Wed)](https://www.youtube.com/watch?v=FIr5wMAn2ow)
+
+[5. RShiny: Overview, Reactives, How it helps (Mon/Wed)](https://youtu.be/8Z1me5ebCUw)
+
+[6. Introduction to Features of Shiny App (Tues/Thurs)](https://youtu.be/eCsZs-pqy3M)
+
+[7. Outlier Detection App with Shiny App (Tues/Thurs)](https://youtu.be/cmJrHpFYh1U)
+
+[8. Interactive Linear Regression Model App with Shiny App (Tues/Thurs)](https://youtu.be/eMwM3gXQ5Xg)
+
+
+# Subcategory 3: Miscellaneous
+[9. Implementing Interactive Filters in R (Mon/Wed)](https://www.loom.com/share/0ba371f62d884042bdf1288d1fca926e)
+
+[10. Interactive Dashboard Creation in R (Mon/Wed)](https://youtu.be/szwG8L-Eyc4)
+
+[11. Understanding Interactive 2D Splines (Mon/Wed)](https://youtu.be/Nm2oT09uSA0)
+
+[12. Embedding Visualizations into Web Apps with R (Mon/Wed)](https://www.youtube.com/watch?v=8j3ttwrtASE)
+
+[13. Quick Interactive Data Visualization with GGplot and GGRapture (Tues/Thurs)](https://www.youtube.com/watch?v=Lod_XBetQ5g)
+
+

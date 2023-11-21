@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>EDAV Fall 2023 Community Contribution - Welcome!</title>
+<title>EDAV Fall 2023 Community Contribution – automatic-script</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -72,7 +72,9 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./welcome.html">Welcome!</a></li><li class="breadcrumb-item"><a href="./welcome.html">Welcome!</a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item">
+      EDAV Fall 2023 Community Contribution
+      </li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
@@ -108,7 +110,7 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./welcome.html" class="sidebar-item-text sidebar-link active">
+  <a href="./welcome.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Welcome!</span></a>
   </div>
 </li>
@@ -249,26 +251,9 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
-<div class="quarto-title">
-<h1 class="title">Welcome!</h1>
-</div>
 
 
-
-<div class="quarto-title-meta">
-
-    
-  
-    
-  </div>
-  
-
-</header>
-
-<p>This webpage contains community contributions for Fall 2023 EDAV class at Columbia University.</p>
-<p>There are 108 videos in total that are divided into 7 categories.</p>
-<p>Hopefully this will help you prepare for your final project!</p>
+<p>{ “cells”: [ { “cell_type”: “code”, “execution_count”: 11, “metadata”: {}, “outputs”: [], “source”: [ “import pandas as pd”, “import numpy as np” ] }, { “cell_type”: “code”, “execution_count”: 12, “metadata”: {}, “outputs”: [], “source”: [ “links = pd.read_csv(‘links-spreadsheet.csv’)” ] }, { “cell_type”: “code”, “execution_count”: 13, “metadata”: {}, “outputs”: [ { “name”: “stdout”, “output_type”: “stream”, “text”: [ “109” ] } ], “source”: [ “print(len(links.index))” ] }, { “cell_type”: “code”, “execution_count”: 14, “metadata”: {}, “outputs”: [], “source”: [ “df = links[[‘Section’,‘Links’,‘Main Category’,‘Sub Category’,‘Title’]]”, “df = df.dropna(subset=[‘Main Category’])” ] }, { “cell_type”: “code”, “execution_count”: 15, “metadata”: {}, “outputs”: [], “source”: [ “df.head(3)”, “category_list = list(set(df[‘Main Category’].to_list()))” ] }, { “cell_type”: “code”, “execution_count”: 16, “metadata”: {}, “outputs”: [ { “name”: “stdout”, “output_type”: “stream”, “text”: [ “[‘Interactive and Web-based Applications’, ‘Programming Techniques and Tools’, ‘Parameter Analysis of Visualization Techniques’, ‘Data Visualization Techniques’, ‘Data Collection and Preprocessing’, ‘Outside of R’, ‘Statistical Analysis and Modelling’]” ] } ], “source”: [ “print(category_list)” ] }, { “cell_type”: “code”, “execution_count”: 17, “metadata”: {}, “outputs”: [], “source”: [ “df1 = df[df["Main Category"] == "Data Collection and Preprocessing"]” ] }, { “cell_type”: “code”, “execution_count”: 18, “metadata”: {}, “outputs”: [], “source”: [ “df1.head(10)”, “subcategory_list1 = list(set(df1[‘Sub Category’].to_list()))” ] }, { “cell_type”: “code”, “execution_count”: 19, “metadata”: {}, “outputs”: [ { “name”: “stdout”, “output_type”: “stream”, “text”: [ “[‘Miscellaneous’]” ] } ], “source”: [ “print(subcategory_list1)” ] }, { “cell_type”: “code”, “execution_count”: 20, “metadata”: {}, “outputs”: [], “source”: [ “category_list = sorted(category_list)”, “category_list.append(category_list.pop(category_list.index(‘Outside of R’)))”, “”, “for cat_nb in range(len(category_list)):”, ” main_category = category_list[cat_nb]“,” df1 = df[df["Main Category"] == main_category]“,”“,” with open(f’project{cat_nb+1}.qmd’, ‘w’) as f: #projecti.qmd“,” link_nb = 1“,” f.write("—\n")“,” f.write(f"title: \"{main_category}\"\n")“,” f.write("—\n")“,”“,” subcategory_list1 = list(set(df1[‘Sub Category’].to_list()))“,”“,” # try:“,” subcategory_list1.append(subcategory_list1.pop(subcategory_list1.index(‘Miscellaneous’)))“,” “,”“,” for sub_nb, subcategory in enumerate(subcategory_list1):“,” df1_sub = df1[df1["Sub Category"] == subcategory]“,” if len(subcategory_list1) &gt; 1:“,” f.write(f"# Subcategory {sub_nb + 1}: {subcategory}\n")“,” for video_nb in range(len(df1_sub[‘Title’].to_list())):“,” # print(len(df1_sub[‘Title’].to_list()))“,” title = df1_sub[‘Title’].to_list()“,” section = df1_sub[‘Section’].to_list()“,” links = df1_sub[‘Links’].to_list()“,” f.write(f"<a href="{links[video_nb]}">{link_nb}. {title[video_nb]} ({section[video_nb]})</a>\n\n")“,” link_nb += 1“,” f.write("\n")“,” ” ] }, { “cell_type”: “code”, “execution_count”: 21, “metadata”: {}, “outputs”: [ { “data”: { “text/plain”: [ “8” ] }, “execution_count”: 21, “metadata”: {}, “output_type”: “execute_result” } ], “source”: [ “len(df1_sub[‘Title’].to_list())” ] } ], “metadata”: { “kernelspec”: { “display_name”: “web-scraping”, “language”: “python”, “name”: “python3” }, “language_info”: { “codemirror_mode”: { “name”: “ipython”, “version”: 3 }, “file_extension”: “.py”, “mimetype”: “text/x-python”, “name”: “python”, “nbconvert_exporter”: “python”, “pygments_lexer”: “ipython3”, “version”: “3.11.5” }, “orig_nbformat”: 4 }, “nbformat”: 4, “nbformat_minor”: 2 }</p>
 
 
 
