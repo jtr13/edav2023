@@ -7,60 +7,11 @@
     "text": "This webpage contains community contributions for Fall 2023 EDAV class at Columbia University.\nThere are 108 videos in total that are divided into 7 categories.\nHopefully this will help you prepare for your final project!\n\n\n\n Back to top"
   },
   {
-    "objectID": "project3.html",
-    "href": "project3.html",
-    "title": "Interactive and Web-based Applications",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome!",
     "section": "",
-    "text": "Subcategory 1: Equisse Package\n1. Easy Data Analysis and Visualization Add-ins in R (Mon/Wed)\n2. Data Visualization R Add-ins: Equisse and GGThemeAssist (Tues/Thurs)\n\n\nSubcategory 2: Shiny App\n3. How to make an Interactive Dashboard with Shiny App on R (Mon/Wed)\n4. Introducing Shiny Package in R - Interactive Web Dashboard (Mon/Wed)\n5. RShiny: Overview, Reactives, How it helps (Mon/Wed)\n6. Introduction to Features of Shiny App (Tues/Thurs)\n7. Outlier Detection App with Shiny App (Tues/Thurs)\n8. Interactive Linear Regression Model App with Shiny App (Tues/Thurs)\n\n\nSubcategory 3: Miscellaneous\n9. Implementing Interactive Filters in R (Mon/Wed)\n10. Interactive Dashboard Creation in R (Mon/Wed)\n11. Understanding Interactive 2D Splines (Mon/Wed)\n12. Embedding Visualizations into Web Apps with R (Mon/Wed)\n13. Quick Interactive Data Visualization with GGplot and GGRapture (Tues/Thurs)\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "project2.html",
-    "href": "project2.html",
-    "title": "Data Visualization Techniques",
-    "section": "",
-    "text": "Subcategory 1: Plot Types and Techniques\n1. Creating Scatter Plots with Boundaries in R (Mon/Wed)\n2. Interactive Heatmap Visualization in Montgomery County with R Shiny (Mon/Wed)\n3. HexMaps: Understanding the Y-axis (Mon/Wed)\n4. Sorting Boxplots and Barplots in R (Mon/Wed)\n5. Comparison between Geom_Mosaic and Vcd::Mosaic (Mon/Wed)\n6. Unemployment Heatmaps with R and Python (Mon/Wed)\n7. Comparison Between Population Pyramid and Violin Plot (Mon/Wed)\n8. Common Uses of Heatmap (Tues/Thurs)\n9. Heatmaps in R (Tues/Thurs)\n10. Interactive Scatterplots with Highcharter Package in R (Tues/Thurs)\n\n\nSubcategory 2: Interactive and Dynamic Visualizations\n11. Interactive Data Visualizations with Plotly in R (Mon/Wed)\n12. Enhancing Visualizations with Plotly Layout Features in Python (Mon/Wed)\n13. Creating Animations using gganimate (Mon/Wed)\n14. Creating Sankey Diagrams with networkD3 in R (Mon/Wed)\n15. Gene and Protein Interaction Networks with NetworkD3 in R (Mon/Wed)\n16. Animated Demographic Trend Maps with Census Data in R (Mon/Wed)\n17. Arrow Plots and Animations for Exploratory Data Analysis and Visualization (Tues/Thurs)\n\n\nSubcategory 3: Basic and Advanced Techniques\n18. Overlaying Facetted Histograms with Theoretical Normal Density Curves (Mon/Wed)\n19. Plotting theoretical normal distribution across facets using gg4x (Mon/Wed)\n20. Bubble and 3D Plot Techniques in R with Plotly (Mon/Wed)\n21. Unlocking Inclusive Data Visualization: Color-Blind Friendly Charts in R (Mon/Wed)\n22. Combining boxplots and ridgeline plots on one plot (Mon/Wed)\n23. EDA & Visualization on Ranking Method (Mon/Wed)\n24. Comparing Facet Functions: facet_wrap() vs facet_grid() (Mon/Wed)\n25. Generative Art Techniques in R (Mon/Wed)\n26. Creating the Droste Effect in R (Mon/Wed)\n27. 3 Stages of Aesthetic Evaluation in GGplot2 (Mon/Wed)\n28. How To Create a Color Palette from an Image (Mon/Wed)\n29. MBTI Data Analysis with Circular Visualization (Mon/Wed)\n30. How to draw normal curves while using ‘facet_wrap()’ in R (Tues/Thurs)\n31. Effective color ramps (Tues/Thurs)\n32. Creating 2D and 3D Visualizations with Rayshader (Tues/Thurs)\n33. Customizing Themes in R with GGthemr (Tues/Thurs)\n34. Plotting Waterfall Chart with R ggplot2 (Tues/Thurs)\n35. TrelliscopeJS for Interactive Data Visualization (Tues/Thurs)\n36. Correlation Matrices and Hierarchical Clustering in R (Tues/Thurs)\n37. Basic Table Creation in R (Tues/Thurs)\n38. Designing Bivariate Color Palettes for Choropleth Maps in R (Tues/Thurs)\n39. Deep Dive of Parallel Coordinate Plots in R (Tues/Thurs)\n\n\nSubcategory 4: Specialized Data Types Visualization\n40. Using WordClouds to analyze data (Mon/Wed)\n41. R Visualizations for Financial Data Analysis with Plotly (Mon/Wed)\n42. NFL Visualizations with Next Gen Stats (Mon/Wed)\n43. Personal Finance Case Study: Monthly Expense Analysis in R (Mon/Wed)\n44. Explaining tm and wordcloud2 Packages in R (Mon/Wed)\n45. Interactive Visualization of Geospatial Data with GGplot2 and Plotly (Tues/Thurs)\n46. How to use Geom_map in GGplot2 (Tues/Thurs)\n47. Using R to visualize expense (Tues/Thurs)\n48. Accident Density Mapping in NYC with Plotly Interactive Plots (Tues/Thurs)\n49. Add graphs Inside Markers on a Geographic Map with LeafLet (Tues/Thurs)\n50. Maps and Projections in R (Tues/Thurs)\n51. Interactive Time Series Data Visualization with Dygraphs Package (Tues/Thurs)\n52. Choropleth Maps in R (Tues/Thurs)\n\n\nSubcategory 5: Statistical and Quantitative Analysis\n53. Exploring Categorical Datasets in R (Mon/Wed)\n54. Quantile-Based Data Partitioning Methods in R with Cut2() (Mon/Wed)\n55. Effective Data Comparison on Different Scales (Mon/Wed)\n56. Jointplot with GGside for Bivariate Analysis (Tues/Thurs)\n57. Lattice Package for Univariate and Multivariate Analysis (Tues/Thurs)\n\n\nSubcategory 6: Miscellaneous\n58. Data Visualization with Emojis (Tues/Thurs)\n59. Formatting of R Output File and Changing Order of Graph Layers (Tues/Thurs)\n60. Graph Resizing in R Markdown (Tues/Thurs)\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "project5.html",
-    "href": "project5.html",
-    "title": "Programming Techniques and Tools",
-    "section": "",
-    "text": "1. Using R in Jupyter Notebook in VSCode and Latex (Mon/Wed)\n2. Project Management in R using RProject and Renv (Mon/Wed)\n3. How to run R and Python in the same Jupyter Notebook using rpy2 (Mon/Wed)\n4. Functional Programming in R (Tues/Thurs)\n5. Quick Tips on Speeding up Data Manipulation and Visualization in R (Tues/Thurs)\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "project6.html",
-    "href": "project6.html",
-    "title": "Statistical Analysis and Modelling",
-    "section": "",
-    "text": "Subcategory 1: Time Series Analysis\n1. Time Series Analysis Using Forecast Library (Mon/Wed)\n2. Introduction to ARIMA, SARIMA and Parameters Selection (Tues/Thurs)\n3. Detecting Outliers in Time Series: ‘anomaly’, ‘tsoutliers’, and ‘checkresiduals’ (Tues/Thurs)\n\n\nSubcategory 2: Miscellaneous\n4. Sentiment Analysis in Tweets about Fast Fashion (Mon/Wed)\n5. Causal Inference with Sandwich Package in R (Mon/Wed)\n6. Caret Package for Machine Learning (Tues/Thurs)\n7. Correlation between Google keyword searches and stock prices via regression (Tues/Thurs)\n8. Modelling of Body Fat Percentage (Tues/Thurs)\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "project7.html",
-    "href": "project7.html",
-    "title": "Outside of R",
-    "section": "",
-    "text": "Subcategory 1: Geospatial Data Visualization\n1. Relating Impact with Interactive Maps (Mon/Wed)\n2. A Complete Python Folium Tutorial (Mon/Wed)\n3. Map Data Visualization with Folium in Python (Mon/Wed)\n4. Interactive visualization of Earthquakes in Turkey in Python (Tues/Thurs)\n5. Reducing Spatial Data Redundancies (Tues/Thurs)\n\n\nSubcategory 2: Miscellaneous\n6. Streamlit Data Analysis App: StudyStats, a non-coding platform for beginners (Mon/Wed)\n7. Interactive Data Visualizations in Python (Mon/Wed)\n8. Visualizing Demographic Trends with Animated Maps (Mon/Wed)\n9. Exploratory Analysis and Data Visualization (Mon/Wed)\n10. Color Interpolation for Choropleth Maps in Data Wrapper (Tues/Thurs)\n11. Interactive visualization with Plotly in Python (Tues/Thurs)\n12. Efficient Excel Chart Management with VBA Macros (Tues/Thurs)\n13. Visualization of Graph Data with Neo4J in Python (Tues/Thurs)\n\n\n\n\n Back to top"
-  },
-  {
-    "objectID": "project1_sample.html",
-    "href": "project1_sample.html",
-    "title": "Project 1",
-    "section": "",
-    "text": "In here you’ll find the hard work of the MSDS 2023 students."
-  },
-  {
-    "objectID": "project1_sample.html#welcome-to-edav-2023-community-contribution-video-repository",
-    "href": "project1_sample.html#welcome-to-edav-2023-community-contribution-video-repository",
-    "title": "Project 1",
-    "section": "",
-    "text": "In here you’ll find the hard work of the MSDS 2023 students."
-  },
-  {
-    "objectID": "project4.html",
-    "href": "project4.html",
-    "title": "Parameter Analysis of Visualization Techniques",
-    "section": "",
-    "text": "1. QQ Plots and Sample Quantiles Analysis in R (Mon/Wed)\n2. Deep Dive in Hexagonal Grids (Tues/Thurs)\n\n\n\n Back to top"
+    "text": "This webpage contains community contributions for Fall 2023 EDAV class at Columbia University.\nThere are 108 videos in total that are divided into 7 categories.\nHopefully this will help you prepare for your final project!\n\n\n\n Back to top"
   },
   {
     "objectID": "project1.html",
@@ -70,17 +21,45 @@
     "text": "1. Understanding the grepl() function in R (Mon/Wed)\n2. Strategies for Handling Missing Data (Mon/Wed)\n3. Combining Sub-Categories in Dataframes in R with grepl() (Mon/Wed)\n4. Min-max Scaling in R (Mon/Wed)\n5. Web Scraping in R (Tues/Thurs)\n6. Working with Time Zone in R with Lubridate (Tues/Thurs)\n7. Tricks of data cleaning and visualization in R (Tues/Thurs)\n\n\n\n Back to top"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Welcome!",
+    "objectID": "project4.html",
+    "href": "project4.html",
+    "title": "Parameter Analysis of Visualization Techniques",
     "section": "",
-    "text": "This webpage contains community contributions for Fall 2023 EDAV class at Columbia University.\nThere are 108 videos in total that are divided into 7 categories.\nHopefully this will help you prepare for your final project!\n\n\n\n Back to top"
+    "text": "1. QQ Plots and Sample Quantiles Analysis in R (Mon/Wed)\n2. Deep Dive in Hexagonal Grids (Tues/Thurs)\n\n\n\n Back to top"
   },
   {
-    "objectID": "automatic-script.html",
-    "href": "automatic-script.html",
-    "title": "EDAV Fall 2023 Community Contribution",
+    "objectID": "project7.html",
+    "href": "project7.html",
+    "title": "Outside of R",
     "section": "",
-    "text": "{ “cells”: [ { “cell_type”: “code”, “execution_count”: 11, “metadata”: {}, “outputs”: [], “source”: [ “import pandas as pd”, “import numpy as np” ] }, { “cell_type”: “code”, “execution_count”: 12, “metadata”: {}, “outputs”: [], “source”: [ “links = pd.read_csv(‘links-spreadsheet.csv’)” ] }, { “cell_type”: “code”, “execution_count”: 13, “metadata”: {}, “outputs”: [ { “name”: “stdout”, “output_type”: “stream”, “text”: [ “109” ] } ], “source”: [ “print(len(links.index))” ] }, { “cell_type”: “code”, “execution_count”: 14, “metadata”: {}, “outputs”: [], “source”: [ “df = links[[‘Section’,‘Links’,‘Main Category’,‘Sub Category’,‘Title’]]”, “df = df.dropna(subset=[‘Main Category’])” ] }, { “cell_type”: “code”, “execution_count”: 15, “metadata”: {}, “outputs”: [], “source”: [ “df.head(3)”, “category_list = list(set(df[‘Main Category’].to_list()))” ] }, { “cell_type”: “code”, “execution_count”: 16, “metadata”: {}, “outputs”: [ { “name”: “stdout”, “output_type”: “stream”, “text”: [ “[‘Interactive and Web-based Applications’, ‘Programming Techniques and Tools’, ‘Parameter Analysis of Visualization Techniques’, ‘Data Visualization Techniques’, ‘Data Collection and Preprocessing’, ‘Outside of R’, ‘Statistical Analysis and Modelling’]” ] } ], “source”: [ “print(category_list)” ] }, { “cell_type”: “code”, “execution_count”: 17, “metadata”: {}, “outputs”: [], “source”: [ “df1 = df[df[\"Main Category\"] == \"Data Collection and Preprocessing\"]” ] }, { “cell_type”: “code”, “execution_count”: 18, “metadata”: {}, “outputs”: [], “source”: [ “df1.head(10)”, “subcategory_list1 = list(set(df1[‘Sub Category’].to_list()))” ] }, { “cell_type”: “code”, “execution_count”: 19, “metadata”: {}, “outputs”: [ { “name”: “stdout”, “output_type”: “stream”, “text”: [ “[‘Miscellaneous’]” ] } ], “source”: [ “print(subcategory_list1)” ] }, { “cell_type”: “code”, “execution_count”: 20, “metadata”: {}, “outputs”: [], “source”: [ “category_list = sorted(category_list)”, “category_list.append(category_list.pop(category_list.index(‘Outside of R’)))”, “”, “for cat_nb in range(len(category_list)):”, ” main_category = category_list[cat_nb]“,” df1 = df[df[\"Main Category\"] == main_category]“,”“,” with open(f’project{cat_nb+1}.qmd’, ‘w’) as f: #projecti.qmd“,” link_nb = 1“,” f.write(\"—\\n\")“,” f.write(f\"title: \\\"{main_category}\\\"\\n\")“,” f.write(\"—\\n\")“,”“,” subcategory_list1 = list(set(df1[‘Sub Category’].to_list()))“,”“,” # try:“,” subcategory_list1.append(subcategory_list1.pop(subcategory_list1.index(‘Miscellaneous’)))“,” “,”“,” for sub_nb, subcategory in enumerate(subcategory_list1):“,” df1_sub = df1[df1[\"Sub Category\"] == subcategory]“,” if len(subcategory_list1) &gt; 1:“,” f.write(f\"# Subcategory {sub_nb + 1}: {subcategory}\\n\")“,” for video_nb in range(len(df1_sub[‘Title’].to_list())):“,” # print(len(df1_sub[‘Title’].to_list()))“,” title = df1_sub[‘Title’].to_list()“,” section = df1_sub[‘Section’].to_list()“,” links = df1_sub[‘Links’].to_list()“,” f.write(f\"{link_nb}. {title[video_nb]} ({section[video_nb]})\\n\\n\")“,” link_nb += 1“,” f.write(\"\\n\")“,” ” ] }, { “cell_type”: “code”, “execution_count”: 21, “metadata”: {}, “outputs”: [ { “data”: { “text/plain”: [ “8” ] }, “execution_count”: 21, “metadata”: {}, “output_type”: “execute_result” } ], “source”: [ “len(df1_sub[‘Title’].to_list())” ] } ], “metadata”: { “kernelspec”: { “display_name”: “web-scraping”, “language”: “python”, “name”: “python3” }, “language_info”: { “codemirror_mode”: { “name”: “ipython”, “version”: 3 }, “file_extension”: “.py”, “mimetype”: “text/x-python”, “name”: “python”, “nbconvert_exporter”: “python”, “pygments_lexer”: “ipython3”, “version”: “3.11.5” }, “orig_nbformat”: 4 }, “nbformat”: 4, “nbformat_minor”: 2 }\n\n\n\n Back to top"
+    "text": "Subcategory 1: Geospatial Data Visualization\n1. Relating Impact with Interactive Maps (Mon/Wed)\n2. A Complete Python Folium Tutorial (Mon/Wed)\n3. Map Data Visualization with Folium in Python (Mon/Wed)\n4. Interactive visualization of Earthquakes in Turkey in Python (Tues/Thurs)\n5. Reducing Spatial Data Redundancies (Tues/Thurs)\n\n\nSubcategory 2: Miscellaneous\n6. Streamlit Data Analysis App: StudyStats, a non-coding platform for beginners (Mon/Wed)\n7. Interactive Data Visualizations in Python (Mon/Wed)\n8. Visualizing Demographic Trends with Animated Maps (Mon/Wed)\n9. Exploratory Analysis and Data Visualization (Mon/Wed)\n10. Color Interpolation for Choropleth Maps in Data Wrapper (Tues/Thurs)\n11. Interactive visualization with Plotly in Python (Tues/Thurs)\n12. Efficient Excel Chart Management with VBA Macros (Tues/Thurs)\n13. Visualization of Graph Data with Neo4J in Python (Tues/Thurs)\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "project6.html",
+    "href": "project6.html",
+    "title": "Statistical Analysis and Modelling",
+    "section": "",
+    "text": "Subcategory 1: Time Series Analysis\n1. Time Series Analysis Using Forecast Library (Mon/Wed)\n2. Introduction to ARIMA, SARIMA and Parameters Selection (Tues/Thurs)\n3. Detecting Outliers in Time Series: ‘anomaly’, ‘tsoutliers’, and ‘checkresiduals’ (Tues/Thurs)\n\n\nSubcategory 2: Miscellaneous\n4. Sentiment Analysis in Tweets about Fast Fashion (Mon/Wed)\n5. Causal Inference with Sandwich Package in R (Mon/Wed)\n6. Caret Package for Machine Learning (Tues/Thurs)\n7. Correlation between Google keyword searches and stock prices via regression (Tues/Thurs)\n8. Modelling of Body Fat Percentage (Tues/Thurs)\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "project5.html",
+    "href": "project5.html",
+    "title": "Programming Techniques and Tools",
+    "section": "",
+    "text": "1. Using R in Jupyter Notebook in VSCode and Latex (Mon/Wed)\n2. Project Management in R using RProject and Renv (Mon/Wed)\n3. How to run R and Python in the same Jupyter Notebook using rpy2 (Mon/Wed)\n4. Functional Programming in R (Tues/Thurs)\n5. Quick Tips on Speeding up Data Manipulation and Visualization in R (Tues/Thurs)\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "project2.html",
+    "href": "project2.html",
+    "title": "Data Visualization Techniques",
+    "section": "",
+    "text": "Subcategory 1: Plot Types and Techniques\n1. Creating Scatter Plots with Boundaries in R (Mon/Wed)\n2. Interactive Heatmap Visualization in Montgomery County with R Shiny (Mon/Wed)\n3. HexMaps: Understanding the Y-axis (Mon/Wed)\n4. Sorting Boxplots and Barplots in R (Mon/Wed)\n5. Comparison between Geom_Mosaic and Vcd::Mosaic (Mon/Wed)\n6. Unemployment Heatmaps with R and Python (Mon/Wed)\n7. Comparison Between Population Pyramid and Violin Plot (Mon/Wed)\n8. Common Uses of Heatmap (Tues/Thurs)\n9. Heatmaps in R (Tues/Thurs)\n10. Interactive Scatterplots with Highcharter Package in R (Tues/Thurs)\n\n\nSubcategory 2: Interactive and Dynamic Visualizations\n11. Interactive Data Visualizations with Plotly in R (Mon/Wed)\n12. Enhancing Visualizations with Plotly Layout Features in Python (Mon/Wed)\n13. Creating Animations using gganimate (Mon/Wed)\n14. Creating Sankey Diagrams with networkD3 in R (Mon/Wed)\n15. Gene and Protein Interaction Networks with NetworkD3 in R (Mon/Wed)\n16. Animated Demographic Trend Maps with Census Data in R (Mon/Wed)\n17. Arrow Plots and Animations for Exploratory Data Analysis and Visualization (Tues/Thurs)\n\n\nSubcategory 3: Basic and Advanced Techniques\n18. Overlaying Facetted Histograms with Theoretical Normal Density Curves (Mon/Wed)\n19. Plotting theoretical normal distribution across facets using gg4x (Mon/Wed)\n20. Bubble and 3D Plot Techniques in R with Plotly (Mon/Wed)\n21. Unlocking Inclusive Data Visualization: Color-Blind Friendly Charts in R (Mon/Wed)\n22. Combining boxplots and ridgeline plots on one plot (Mon/Wed)\n23. EDA & Visualization on Ranking Method (Mon/Wed)\n24. Comparing Facet Functions: facet_wrap() vs facet_grid() (Mon/Wed)\n25. Generative Art Techniques in R (Mon/Wed)\n26. Creating the Droste Effect in R (Mon/Wed)\n27. 3 Stages of Aesthetic Evaluation in GGplot2 (Mon/Wed)\n28. How To Create a Color Palette from an Image (Mon/Wed)\n29. MBTI Data Analysis with Circular Visualization (Mon/Wed)\n30. How to draw normal curves while using ‘facet_wrap()’ in R (Tues/Thurs)\n31. Effective color ramps (Tues/Thurs)\n32. Creating 2D and 3D Visualizations with Rayshader (Tues/Thurs)\n33. Customizing Themes in R with GGthemr (Tues/Thurs)\n34. Plotting Waterfall Chart with R ggplot2 (Tues/Thurs)\n35. TrelliscopeJS for Interactive Data Visualization (Tues/Thurs)\n36. Correlation Matrices and Hierarchical Clustering in R (Tues/Thurs)\n37. Basic Table Creation in R (Tues/Thurs)\n38. Designing Bivariate Color Palettes for Choropleth Maps in R (Tues/Thurs)\n39. Deep Dive of Parallel Coordinate Plots in R (Tues/Thurs)\n\n\nSubcategory 4: Specialized Data Types Visualization\n40. Using WordClouds to analyze data (Mon/Wed)\n41. R Visualizations for Financial Data Analysis with Plotly (Mon/Wed)\n42. NFL Visualizations with Next Gen Stats (Mon/Wed)\n43. Personal Finance Case Study: Monthly Expense Analysis in R (Mon/Wed)\n44. Explaining tm and wordcloud2 Packages in R (Mon/Wed)\n45. Interactive Visualization of Geospatial Data with GGplot2 and Plotly (Tues/Thurs)\n46. How to use Geom_map in GGplot2 (Tues/Thurs)\n47. Using R to visualize expense (Tues/Thurs)\n48. Accident Density Mapping in NYC with Plotly Interactive Plots (Tues/Thurs)\n49. Add graphs Inside Markers on a Geographic Map with LeafLet (Tues/Thurs)\n50. Maps and Projections in R (Tues/Thurs)\n51. Interactive Time Series Data Visualization with Dygraphs Package (Tues/Thurs)\n52. Choropleth Maps in R (Tues/Thurs)\n\n\nSubcategory 5: Statistical and Quantitative Analysis\n53. Exploring Categorical Datasets in R (Mon/Wed)\n54. Quantile-Based Data Partitioning Methods in R with Cut2() (Mon/Wed)\n55. Effective Data Comparison on Different Scales (Mon/Wed)\n56. Jointplot with GGside for Bivariate Analysis (Tues/Thurs)\n57. Lattice Package for Univariate and Multivariate Analysis (Tues/Thurs)\n\n\nSubcategory 6: Miscellaneous\n58. Data Visualization with Emojis (Tues/Thurs)\n59. Formatting of R Output File and Changing Order of Graph Layers (Tues/Thurs)\n60. Graph Resizing in R Markdown (Tues/Thurs)\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "project3.html",
+    "href": "project3.html",
+    "title": "Interactive and Web-based Applications",
+    "section": "",
+    "text": "Subcategory 1: Equisse Package\n1. Easy Data Analysis and Visualization Add-ins in R (Mon/Wed)\n2. Data Visualization R Add-ins: Equisse and GGThemeAssist (Tues/Thurs)\n\n\nSubcategory 2: Shiny App\n3. How to make an Interactive Dashboard with Shiny App on R (Mon/Wed)\n4. Introducing Shiny Package in R - Interactive Web Dashboard (Mon/Wed)\n5. RShiny: Overview, Reactives, How it helps (Mon/Wed)\n6. Introduction to Features of Shiny App (Tues/Thurs)\n7. Outlier Detection App with Shiny App (Tues/Thurs)\n8. Interactive Linear Regression Model App with Shiny App (Tues/Thurs)\n\n\nSubcategory 3: Miscellaneous\n9. Implementing Interactive Filters in R (Mon/Wed)\n10. Interactive Dashboard Creation in R (Mon/Wed)\n11. Understanding Interactive 2D Splines (Mon/Wed)\n12. Embedding Visualizations into Web Apps with R (Mon/Wed)\n13. Quick Interactive Data Visualization with GGplot and GGRapture (Tues/Thurs)\n\n\n\n\n Back to top"
   }
 ]

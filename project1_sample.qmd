@@ -1,8 +1,0 @@
----
-title: "Project 1"
-author: 'author name'
----
-
-## Welcome to EDAV 2023 community contribution video repository
-
-In here you'll find the hard work of the MSDS 2023 students. 
