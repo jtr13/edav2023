@@ -9,11 +9,9 @@ website:
   #     - href: index.qmd
   #       text: Welcome!
   #     - projects.qmd
-  #   tools:
-  #     - icon: twitter
-  #       href: https://twitter.com/
-  #     - icon: github
-  #       href: https://github.com/YOURUSERNAME/YOURREPO
+   tools:
+     - icon: github
+       href: https://github.com/jtr13/edav2023
   sidebar:
     style: "floating"
     search: true
