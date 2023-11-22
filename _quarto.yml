@@ -4,14 +4,10 @@ project:
   
 website:
   title: "EDAV Fall 2023 Community Contribution"
-  # navbar:
-  #   left:
-  #     - href: index.qmd
-  #       text: Welcome!
-  #     - projects.qmd
-   tools:
-     - icon: github
-       href: https://github.com/jtr13/edav2023
+  navbar:
+    tools:
+      - icon: github
+        href: https://github.com/jtr13/edav2023
   sidebar:
     style: "floating"
     search: true
