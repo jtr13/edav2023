@@ -1,5 +1,5 @@
 ---
-title: "Data Visualization Techniques"
+title: "2. Data Visualization Techniques"
 ---
 #   1: Plot Types and Techniques
 [1. Creating Scatter Plots with Boundaries in R (Mon/Wed)](https://youtu.be/dCl9tISXSSQ)

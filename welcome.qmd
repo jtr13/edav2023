@@ -6,5 +6,16 @@ This webpage contains community contributions for Fall 2023 EDAV class at Columb
 
 There are 108 videos in total that are divided into 7 categories.
 
-Hopefully this will help you prepare for your final project!
+For the final project project, you’re welcome to first check out “[1. Data Collection and Preprocessing](https://jtr13.github.io/edav2023/project1.html)” and “[2. Data Visualization Techniques](https://jtr13.github.io/edav2023/project2.html)”, as these are all videos about the basic graphs, skills, and packages in R that are within the scope of the final project. There are also several subcategories in it.
 
+Other categories cover more advanced skills, which may not necessarily be within the scope of the final project, but are still extremely interesting, useful, and insightful!
+
+“[3. Interactive and Web-based Applications](https://jtr13.github.io/edav2023/project3.html)”: using Shiny App in R to create interactive online dashboards
+
+“[4. Outside of R](https://jtr13.github.io/edav2023/project7.html)”: Data visualization techniques outside of R, most of which are in Python
+
+“[5. Parameter Analysis of Visualization Techniques](https://jtr13.github.io/edav2023/project4.html)”: Dives into the mathematical foundation behind visualization techniques
+
+“[6. Programming Techniques and Tools](https://jtr13.github.io/edav2023/project5.html)”: diverse programming techniques ranging from speeding up codes in R to integrating R with VSCode and Latex
+
+“[7. Statistical Analysis and Modeling](https://jtr13.github.io/edav2023/project6.html)”: machine learning, modeling, and inference in R

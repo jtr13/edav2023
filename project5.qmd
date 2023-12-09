@@ -1,5 +1,5 @@
 ---
-title: "Programming Techniques and Tools"
+title: "6. Programming Techniques and Tools"
 ---
 [1. Using R in Jupyter Notebook in  VSCode and Latex (Mon/Wed)](https://youtu.be/B5anK7XBXrg)
 

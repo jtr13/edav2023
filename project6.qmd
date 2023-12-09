@@ -1,5 +1,5 @@
 ---
-title: "Statistical Analysis and Modelling"
+title: "7. Statistical Analysis and Modelling"
 ---
 #   1: Time Series Analysis
 [1. Time Series Analysis Using Forecast Library (Mon/Wed)](https://youtu.be/iCt8uBjFEjo)
