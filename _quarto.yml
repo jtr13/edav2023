@@ -4,6 +4,8 @@ project:
   
 website:
   title: "EDAV Fall 2023 Community Contribution"
+  repo-url: https://github.com/YOUR_GITHUB_ACCOUNT/REPO_NAME
+  repo-actions: [edit, issue]
   navbar:
     tools:
       - icon: github
@@ -12,35 +14,14 @@ website:
     style: "floating"
     search: true
     contents:
-      - section: "Welcome!" # TO ADD a description for welcome 
-        contents:
-          - welcome.qmd # TO MODIFY
-      - text: "---"
-      - section: "1. Data Collection and Preprocessing" #
-        contents:
-          - project1.qmd
-      - text: "---"
-      - section: "2. Data Visualization Techniques"
-        contents:
-          - project2.qmd
-      - section: "3. Interactive and Web-based Applications" #
-        contents:
-          - project3.qmd
-      - text: "---"
-      - section: "4. Outside of R"
-        contents:
-          - project7.qmd
-      - section: "5. Parameter Analysis of Visualization Techniques" #
-        contents:
-          - project4.qmd
-      - text: "---"
-      - section: "6. Programming Techniques and Tools"
-        contents:
-          - project5.qmd
-      - section: "7. Statistical Analysis and Modelling" #
-        contents:
-          - project6.qmd
-      - text: "---"
+      - welcome.qmd
+      - project1.qmd
+      - project2.qmd
+      - project3.qmd
+      - project7.qmd
+      - project4.qmd
+      - project5.qmd
+      - project6.qmd
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
     left: "&copy; Copyright 2023"
@@ -48,8 +29,9 @@ website:
 
 format:
   html:
-    theme: cerulean
+    theme: cosmo
     toc: true
+    # code-fold: true
 
 editor: source
 

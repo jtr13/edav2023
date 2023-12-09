@@ -1,7 +1,7 @@
 ---
 title: "Data Visualization Techniques"
 ---
-# Subcategory 1: Plot Types and Techniques
+#   1: Plot Types and Techniques
 [1. Creating Scatter Plots with Boundaries in R (Mon/Wed)](https://youtu.be/dCl9tISXSSQ)
 
 [2. Interactive Heatmap Visualization in Montgomery County with R Shiny (Mon/Wed)](https://www.youtube.com/watch?v=nNI4SeSLgN0)
@@ -23,7 +23,7 @@ title: "Data Visualization Techniques"
 [10. Interactive Scatterplots with Highcharter Package  in R (Tues/Thurs)](https://youtu.be/SNbqdJmqtAw)
 
 
-# Subcategory 2: Interactive and Dynamic Visualizations
+#   2: Interactive and Dynamic Visualizations
 [11. Interactive Data Visualizations with Plotly in R (Mon/Wed)](https://youtu.be/87ZuiR7SrfA)
 
 [12. Enhancing Visualizations with Plotly Layout Features in Python (Mon/Wed)](https://www.youtube.com/watch?v=gM8yz6P7V0A)
@@ -39,7 +39,7 @@ title: "Data Visualization Techniques"
 [17. Arrow Plots and Animations for Exploratory Data Analysis and Visualization (Tues/Thurs)](https://www.youtube.com/watch?v=rp4ahQtkXrM&ab_channel=YelamanSain)
 
 
-# Subcategory 3: Basic and Advanced Techniques
+#   3: Basic and Advanced Techniques
 [18. Overlaying Facetted Histograms with Theoretical Normal Density Curves (Mon/Wed)](https://www.youtube.com/watch?v=9wtvJz82oSw)
 
 [19. Plotting theoretical normal distribution across facets using gg4x (Mon/Wed)](https://youtu.be/fyHNWSkcYpk)
@@ -85,7 +85,7 @@ title: "Data Visualization Techniques"
 [39. Deep Dive of Parallel Coordinate Plots in R (Tues/Thurs)](https://youtu.be/HTh5e7v54uM)
 
 
-# Subcategory 4: Specialized Data Types Visualization
+#   4: Specialized Data Types Visualization
 [40. Using WordClouds to analyze data (Mon/Wed)](https://youtu.be/GPHgiqD2XfE)
 
 [41. R Visualizations for Financial Data Analysis with Plotly (Mon/Wed)](https://youtu.be/tbmGq7_TM-4)
@@ -113,7 +113,7 @@ title: "Data Visualization Techniques"
 [52. Choropleth Maps in R (Tues/Thurs)](https://youtu.be/-hutMwiLO7A)
 
 
-# Subcategory 5: Statistical and Quantitative Analysis
+#   5: Statistical and Quantitative Analysis
 [53. Exploring Categorical Datasets in R (Mon/Wed)](https://youtu.be/s5ehRahj2pM?feature=shared)
 
 [54. Quantile-Based Data Partitioning Methods in R with Cut2() (Mon/Wed)](https://youtu.be/BmxpApzmpqE)
@@ -125,7 +125,7 @@ title: "Data Visualization Techniques"
 [57. Lattice Package for Univariate and Multivariate Analysis (Tues/Thurs)](https://youtu.be/wsrGQPPPmN4)
 
 
-# Subcategory 6: Miscellaneous
+#   6: Miscellaneous
 [58. Data Visualization with Emojis (Tues/Thurs)](https://youtu.be/A-il70GvkkM)
 
 [59. Formatting of R Output File and Changing Order of Graph Layers (Tues/Thurs)](https://www.youtube.com/watch?v=xj4HCy5Y3Yg)

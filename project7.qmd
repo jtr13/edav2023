@@ -1,7 +1,7 @@
 ---
 title: "Outside of R"
 ---
-# Subcategory 1: Geospatial Data Visualization
+#   1: Geospatial Data Visualization
 [1. Relating Impact with Interactive Maps (Mon/Wed)](https://youtu.be/UT_-BeZl2o4)
 
 [2. A Complete Python Folium Tutorial (Mon/Wed)](https://www.youtube.com/watch?v=Ob0fhtDnFus)
@@ -13,7 +13,7 @@ title: "Outside of R"
 [5. Reducing Spatial Data Redundancies (Tues/Thurs)](https://youtu.be/ykFh3_D8Ors)
 
 
-# Subcategory 2: Miscellaneous
+#   2: Miscellaneous
 [6. Streamlit Data Analysis App: StudyStats, a non-coding platform for beginners
  (Mon/Wed)](https://youtu.be/gsCIMVdy-Kw)
 

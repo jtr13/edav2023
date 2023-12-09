@@ -1,13 +1,13 @@
 ---
 title: "Interactive and Web-based Applications"
 ---
-# Subcategory 1: Equisse Package
+#   1: Equisse Package
 [1. Easy Data Analysis and Visualization Add-ins in R (Mon/Wed)](https://www.youtube.com/watch?v=gIPY_5m-vRk)
 
 [2. Data Visualization R Add-ins: Equisse and GGThemeAssist  (Tues/Thurs)](https://youtu.be/CpGb063CeWY)
 
 
-# Subcategory 2: Shiny App
+#   2: Shiny App
 [3. How to make an Interactive Dashboard with Shiny App on R (Mon/Wed)](https://youtu.be/UG6QibAflRs)
 
 [4. Introducing Shiny Package in R - Interactive Web Dashboard (Mon/Wed)](https://www.youtube.com/watch?v=FIr5wMAn2ow)
@@ -21,7 +21,7 @@ title: "Interactive and Web-based Applications"
 [8. Interactive Linear Regression Model App with Shiny App (Tues/Thurs)](https://youtu.be/eMwM3gXQ5Xg)
 
 
-# Subcategory 3: Miscellaneous
+#   3: Miscellaneous
 [9. Implementing Interactive Filters in R (Mon/Wed)](https://www.loom.com/share/0ba371f62d884042bdf1288d1fca926e)
 
 [10. Interactive Dashboard Creation in R (Mon/Wed)](https://youtu.be/szwG8L-Eyc4)

@@ -1,7 +1,7 @@
 ---
 title: "Statistical Analysis and Modelling"
 ---
-# Subcategory 1: Time Series Analysis
+#   1: Time Series Analysis
 [1. Time Series Analysis Using Forecast Library (Mon/Wed)](https://youtu.be/iCt8uBjFEjo)
 
 [2. Introduction to ARIMA, SARIMA and Parameters Selection (Tues/Thurs)](https://youtu.be/qxEn68VXSNo)
@@ -9,7 +9,7 @@ title: "Statistical Analysis and Modelling"
 [3. Detecting Outliers in Time Series: 'anomaly', 'tsoutliers', and 'checkresiduals' (Tues/Thurs)](https://youtu.be/ZYdfLpoBVjU)
 
 
-# Subcategory 2: Miscellaneous
+#   2: Miscellaneous
 [4. Sentiment Analysis in Tweets about Fast Fashion (Mon/Wed)](https://youtu.be/xk7L7xJhOyQ)
 
 [5. Causal Inference with Sandwich Package in R (Mon/Wed)](https://youtu.be/r7xCvHttgi0)
